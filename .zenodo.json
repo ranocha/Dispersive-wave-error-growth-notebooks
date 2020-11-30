@@ -1,0 +1,25 @@
+{
+    "license": "mit-license",
+    "title": "On the Rate of Error Growth in Time for Numerical Solutions of Nonlinear Dispersive Wave Equations",
+    "description": "Source code for used numerical experiments",
+    "upload_type": "software",
+    "publication_date": "2020-TODO-TODO",
+    "creators": [
+        {
+            "affiliation": "King Abdullah University of Science and Technology",
+            "name": "Hendrik Ranocha",
+            "orcid": "0000-0002-3456-2277"
+        },
+        {
+	    "affiliation": "King Abdullah University of Science and Technology",
+            "name": "Manuel Quezada de Luna",
+            "orcid": "0000-0001-7288-0367"
+        },
+        {
+	    "affiliation": "King Abdullah University of Science and Technology",
+            "name": "David I. Ketcheson",
+            "orcid": "0000-0002-1212-126X"
+        }
+    ],
+    "access_right": "open"
+}
