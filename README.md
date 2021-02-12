@@ -5,10 +5,10 @@
 
 This repository contains some code used in the article
 ```
-@online{ranocha2020rate,
+@online{ranocha2021rate,
   title={On the Rate of Error Growth in Time for Numerical Solutions of
          Nonlinear Dispersive Wave Equations},
-  author={Ranocha, Hendrik and de Luna, Manuel Quezada and Ketcheson, David I},
+  author={Ranocha, Hendrik and Quezada de Luna, Manuel and Ketcheson, David I},
   year={2020},
   month={TODO},
   eprint={TODO},
@@ -23,11 +23,11 @@ This repository contains some code used in the article
 If you find these results useful, please cite the article mentioned above. If you
 use the implementations provided here, please *also* cite this repository as
 ```
-@misc{ranocha2020rateRepro,
+@misc{ranocha2021rateRepro,
   title={{Dispersive-wave-error-growth-notebooks}.
          {O}n the Rate of Error Growth in Time for Numerical Solutions of
          Nonlinear Dispersive Wave Equations},
-  author={Ranocha, Hendrik and de Luna, Manuel Quezada and Ketcheson, David I},
+  author={Ranocha, Hendrik and Quezada de Luna, Manuel and Ketcheson, David I},
   year={2020},
   month={TODO},
   howpublished={\url{https://github.com/ranocha/Dispersive-wave-error-growth-notebooks}},
