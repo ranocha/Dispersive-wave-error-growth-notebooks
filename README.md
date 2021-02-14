@@ -1,7 +1,7 @@
 # On the Rate of Error Growth in Time for Numerical Solutions of Nonlinear Dispersive Wave Equations
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://doi.org/TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4540467.svg)](https://doi.org/10.5281/zenodo.4540467)
 
 This repository contains some code used in the article
 ```
