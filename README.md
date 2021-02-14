@@ -17,7 +17,7 @@ This repository contains some code used in the article
 }
 ```
 
-> TODO
+> We study the numerical error in solitary wave solutions of nonlinear dispersive wave equations. A number of existing results for particular equations and/or methods indicate that the error grows quadratically in time for numerical methods that do not conserve energy, but grows only linearly for conservative methods. We provide numerical experiments indicating that this result extends to a very broad class of equations and numerical methods.
 
 
 If you find these results useful, please cite the article mentioned above. If you
